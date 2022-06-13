@@ -1,0 +1,502 @@
+[
+	{
+	  "bananaproductId": 1,
+	  "colorId": 1,
+	  "imgurlId": 1
+	},
+	{
+	  "bananaproductId": 1,
+	  "colorId": 2,
+	  "imgurlId": 2
+	},  
+	{
+	  "bananaproductId": 1,
+	  "colorId": 3,
+	  "imgurlId": 3
+	},   
+	{
+	  "bananaproductId": 2,
+	  "colorId": 1,
+	  "imgurlId": 4
+	},
+	{
+	  "bananaproductId": 2,
+	  "colorId": 2,
+	  "imgurlId": 5
+	},   
+	{
+	  "bananaproductId": 3,
+	  "colorId": 1,
+	  "imgurlId": 6
+	},      
+	{
+	  "bananaproductId": 3,
+	  "colorId": 2,
+	  "imgurlId": 7
+	},
+	{
+	  "bananaproductId": 4,
+	  "colorId": 1,
+	  "imgurlId": 8
+	},  
+	{
+	  "bananaproductId": 4,
+	  "colorId": 2,
+	  "imgurlId": 9
+	},
+	{
+	  "bananaproductId": 5,
+	  "colorId": 4 ,
+	  "imgurlId": 10
+	},       
+	{
+	  "bananaproductId": 5,
+	  "colorId": 5,
+	  "imgurlId": 11
+	},  
+	{
+	  "bananaproductId": 5,
+	  "colorId": 6,
+	  "imgurlId": 12
+	}, 
+	{
+	  "bananaproductId": 5,
+	  "colorId": 10,
+	  "imgurlId": 13
+	}, 
+	{
+	  "bananaproductId": 5,
+	  "colorId": 8,
+	  "imgurlId": 14
+	}, 
+  
+	{
+	  "bananaproductId": 6,
+	  "colorId": 9,
+	  "imgurlId": 15
+	},
+	{
+	  "bananaproductId": 6,
+	  "colorId": 6,
+	  "imgurlId": 16
+	}, 
+	{
+	  "bananaproductId": 6,
+	  "colorId": 10,
+	  "imgurlId": 17
+	},  
+	{
+	  "bananaproductId": 6,
+	  "colorId": 8,
+	  "imgurlId": 18
+	},
+	{
+	  "bananaproductId": 7,
+	  "colorId": 11,
+	  "imgurlId": 19
+	},
+	{
+	  "bananaproductId": 7,
+	  "colorId": 12,
+	  "imgurlId": 20
+	},  
+	{
+	  "bananaproductId": 7,
+	  "colorId": 13,
+	  "imgurlId": 21
+	},   
+	{
+	  "bananaproductId": 7,
+	  "colorId": 14,
+	  "imgurlId": 22
+	},  
+	{
+	  "bananaproductId": 7,
+	  "colorId": 15,
+	  "imgurlId": 23
+	},   
+	{
+	  "bananaproductId": 7,
+	  "colorId": 7,
+	  "imgurlId": 24
+	},                      
+	{
+	  "bananaproductId": 8,
+	  "colorId": 11,
+	  "imgurlId": 25
+	}, 
+	{
+	  "bananaproductId": 8,
+	  "colorId": 12,
+	  "imgurlId": 26
+	}, 
+	{
+	  "bananaproductId": 8,
+	  "colorId": 13,
+	  "imgurlId": 27
+	},  
+	{
+	  "bananaproductId": 8,
+	  "colorId": 14,
+	  "imgurlId": 28
+	},  
+	{
+	  "bananaproductId": 8,
+	  "colorId": 15,
+	  "imgurlId": 29
+	},  
+	{
+	  "bananaproductId": 8,
+	  "colorId": 7,
+	  "imgurlId": 30
+	},     
+	{
+	  "bananaproductId": 9,
+	  "colorId": 16,
+	  "imgurlId": 31
+	}, 
+	{
+	  "bananaproductId": 9,
+	  "colorId": 17,
+	  "imgurlId": 32
+	}, 
+	{
+	  "bananaproductId": 9,
+	  "colorId": 18,
+	  "imgurlId": 33
+	}, 
+  
+	{
+	  "bananaproductId": 10,
+	  "colorId": 19,
+	  "imgurlId": 34
+	},  
+	{
+	  "bananaproductId": 10,
+	  "colorId": 20,
+	  "imgurlId": 35
+	},  
+	{
+	  "bananaproductId": 10,
+	  "colorId": 21,
+	  "imgurlId": 36
+	},  
+	{
+	  "bananaproductId": 10,
+	  "colorId": 22,
+	  "imgurlId": 37
+	},  
+	{
+	  "bananaproductId": 10,
+	  "colorId": 23,
+	  "imgurlId": 38
+	},  
+	{
+	  "bananaproductId": 10,
+	  "colorId": 24,
+	  "imgurlId": 39
+	},        
+	{
+	  "bananaproductId": 11,
+	  "colorId": 19,
+	  "imgurlId": 40
+	}, 
+	{
+	  "bananaproductId": 11,
+	  "colorId": 20,
+	  "imgurlId": 41
+	}, 
+	{
+	  "bananaproductId": 11,
+	  "colorId": 21,
+	  "imgurlId": 42
+	}, 
+	{
+	  "bananaproductId": 11,
+	  "colorId": 22,
+	  "imgurlId": 43
+	}, 
+	{
+	  "bananaproductId": 11,
+	  "colorId": 23,
+	  "imgurlId": 44
+	},  
+	{
+	  "bananaproductId": 11,
+	  "colorId": 24,
+	  "imgurlId": 45
+	},    
+  
+	{
+	  "bananaproductId": 12,
+	  "colorId": 19,
+	  "imgurlId": 46
+	},  
+	{
+	  "bananaproductId": 12,
+	  "colorId": 20,
+	  "imgurlId": 47
+	},  
+	{
+	  "bananaproductId": 12,
+	  "colorId": 25,
+	  "imgurlId": 48
+	},  
+	{
+	  "bananaproductId": 12,
+	  "colorId": 22,
+	  "imgurlId": 49
+	},  
+	{
+	  "bananaproductId": 12,
+	  "colorId": 23,
+	  "imgurlId": 50
+	},  
+	{
+	  "bananaproductId": 12,
+	  "colorId": 24,
+	  "imgurlId": 51
+	},      
+	{
+	  "bananaproductId": 13,
+	  "colorId": 1,
+	  "imgurlId": 52
+	}, 
+	{
+	  "bananaproductId": 13,
+	  "colorId": 26,
+	  "imgurlId": 53
+	}, 
+  
+	{
+	  "bananaproductId": 14,
+	  "colorId": 1,
+	  "imgurlId": 54
+	},
+	{
+	  "bananaproductId": 14,
+	  "colorId": 26,
+	  "imgurlId": 55
+	},
+	{
+	  "bananaproductId": 15,
+	  "colorId": 27,
+	  "imgurlId": 56
+	}, 
+	{
+	  "bananaproductId": 15,
+	  "colorId": 28,
+	  "imgurlId": 57
+	}, 
+	{
+	  "bananaproductId": 15,
+	  "colorId": 29,
+	  "imgurlId": 58
+	}, 
+	{
+	  "bananaproductId": 15,
+	  "colorId": 30,
+	  "imgurlId": 59
+	}, 
+	{
+	  "bananaproductId": 15,
+	  "colorId": 17,
+	  "imgurlId": 60
+	},     
+	{
+	  "bananaproductId": 16,
+	  "colorId": 31,
+	  "imgurlId": 61
+	}, 
+	{
+	  "bananaproductId": 16,
+	  "colorId": 32,
+	  "imgurlId": 62
+	},   
+	{
+	  "bananaproductId": 17,
+	  "colorId": 33,
+	  "imgurlId": 63
+	},  
+	{
+	  "bananaproductId": 17,
+	  "colorId": 34,
+	  "imgurlId": 64
+	},  
+	{
+	  "bananaproductId": 17,
+	  "colorId": 35,
+	  "imgurlId": 65
+	},  
+	{
+	  "bananaproductId": 17,
+	  "colorId": 36,
+	  "imgurlId": 66
+	},   
+	{
+	  "bananaproductId": 18,
+	  "colorId": 37,
+	  "imgurlId": 67
+	}, 
+	{
+	  "bananaproductId": 19,
+	  "colorId": 38,
+	  "imgurlId": 68
+	},   
+	{
+	  "bananaproductId": 19,
+	  "colorId": 37,
+	  "imgurlId": 69
+	},  
+	{
+	  "bananaproductId": 19,
+	  "colorId": 39,
+	  "imgurlId": 70
+	},  
+	{
+	  "bananaproductId": 19,
+	  "colorId": 40,
+	  "imgurlId": 71
+	},  
+	{
+	  "bananaproductId": 19,
+	  "colorId": 41,
+	  "imgurlId": 72
+	},  
+	{
+	  "bananaproductId": 19,
+	  "colorId": 42,
+	  "imgurlId": 73
+	},  
+	{
+	  "bananaproductId": 19,
+	  "colorId": 43,
+	  "imgurlId": 74
+	}, 
+	{
+	  "bananaproductId": 20,
+	  "colorId": 37,
+	  "imgurlId": 75
+	},   
+	{
+	  "bananaproductId": 20,
+	  "colorId": 44,
+	  "imgurlId": 76
+	},  
+	{
+	  "bananaproductId": 20,
+	  "colorId": 45,
+	  "imgurlId": 77
+	},  
+	{
+	  "bananaproductId": 20,
+	  "colorId": 46,
+	  "imgurlId": 78
+	},  
+	{
+	  "bananaproductId": 20,
+	  "colorId": 43,
+	  "imgurlId": 79
+	},  
+	{
+	  "bananaproductId": 20,
+	  "colorId": 47,
+	  "imgurlId": 80
+	},  
+	{
+	  "bananaproductId": 20,
+	  "colorId": 48,
+	  "imgurlId": 81
+	},          
+	{
+	  "bananaproductId": 21,
+	  "colorId": 38,
+	  "imgurlId": 82
+	}, 
+	{
+	  "bananaproductId": 21,
+	  "colorId": 37,
+	  "imgurlId": 83
+	}, 
+	{
+	  "bananaproductId": 21,
+	  "colorId": 49,
+	  "imgurlId": 84
+	}, 
+	{
+	  "bananaproductId": 21,
+	  "colorId": 50,
+	  "imgurlId": 85
+	}, 
+	{
+	  "bananaproductId": 21,
+	  "colorId": 51,
+	  "imgurlId": 86
+	}, 
+  
+	{
+	  "bananaproductId": 22,
+	  "colorId": 38,
+	  "imgurlId": 87
+	},
+	{
+	  "bananaproductId": 22,
+	  "colorId": 52,
+	  "imgurlId": 88
+	},
+	{
+	  "bananaproductId": 22,
+	  "colorId": 53,
+	  "imgurlId": 89
+	},
+	{
+	  "bananaproductId": 22,
+	  "colorId": 54,
+	  "imgurlId": 90
+	}, 
+	{
+	  "bananaproductId": 22,
+	  "colorId": 55,
+	  "imgurlId": 91
+	},   
+	{
+	  "bananaproductId": 23,
+	  "colorId": 56,
+	  "imgurlId": 92
+	}, 
+	{
+	  "bananaproductId": 24,
+	  "colorId": 56,
+	  "imgurlId": 93
+	}, 
+	{
+	  "bananaproductId": 25,
+	  "colorId": 56,
+	  "imgurlId": 94
+	},
+	{
+	  "bananaproductId": 26,
+	  "colorId": 57,
+	  "imgurlId": 95
+	}, 
+	{
+	  "bananaproductId": 27,
+	  "colorId": 57,
+	  "imgurlId": 96
+	},    
+	{
+	  "bananaproductId": 28,
+	  "colorId": 57,
+	  "imgurlId": 97
+	},    
+	{
+	  "bananaproductId": 29,
+	  "colorId": 57,
+	  "imgurlId": 98
+	},   
+	{
+	  "bananaproductId": 30,
+	  "colorId": 58,
+	  "imgurlId": 99
+	}
+  ]

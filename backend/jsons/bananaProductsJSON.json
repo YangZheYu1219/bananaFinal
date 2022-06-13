@@ -1,0 +1,182 @@
+[ 
+	{
+	  "title": "BananaBook Air 13吋",
+	  "price": "30900",
+	  "categoryId": "1",
+	  "description": "搭載最新B1晶片，帶來強大的CPU、GPU 與機器學習效能表現 ; 最長可達 18 小時電池續航力 ; Banana 顯示器色彩鮮明，細節豐富 ; 超快速的 SSD 儲存裝置，可瞬間打開 app 和檔案 ; 無風扇設計，運作安靜無聲"
+	},
+	{
+	  "title": "BananaBook Pro 13 吋",
+	  "price": "39900",
+	  "categoryId": "1",
+	  "description": "搭載最新B1晶片，帶來強大的CPU、GPU 與機器學習效能表現 ; 最長可達 20 小時電池續航力 ; Banana 顯示器具備具備亮度500尼特，色彩鮮明，細節豐富 ; 超快速的 SSD 儲存裝置，可瞬間打開 app 和檔案"
+	},  
+	{
+	  "title": "BananaBook Pro 14 吋",
+	  "price": "59900",
+	  "categoryId": "1",
+	  "description":"全新 Banana B1 Pro 與 B1 Max 晶片，帶來令人驚豔的效能 ; 最長可達 17 小時電池續航力 ; Liquid Liquid Banana XDR 顯示器帶來極致動態範圍與優異的對比度 ; 全新 1080p FaceTime HD 相機、高傳真六揚聲器音響系統，以及錄音室等級麥克風陣列 ; Thunderbolt 與 MagSafe 3，帶來快速且多元的連結能力 XDR 顯示器帶來極致動態範圍與優異的對比度"
+	},   
+	{
+	  "title": "BananaBook Pro 16 吋",
+	  "price": "74900",
+	  "categoryId": "1",
+	  "description":"全新 Banana B1 Pro 與 B1 Max 晶片，帶來令人驚豔的效能 ; 最長可達 21 小時電池續航力 ; Liquid Liquid Banana XDR 顯示器帶來極致動態範圍與優異的對比度 ; 全新 1080p FaceTime HD 相機、高傳真六揚聲器音響系統，以及錄音室等級麥克風陣列 ; Thunderbolt 與 MagSafe 3，帶來快速且多元的連結能力 XDR 顯示器帶來極致動態範圍與優異的對比度"
+	},
+	{
+	  "title": "BPhone 13 Pro",
+	  "price": "32900",      
+	  "categoryId": "2",
+	  "description":"6.1 吋超 Banana XDR 顯示器，具備 ProMotion 自動適應更新頻率技術，帶來更快速、更靈敏的體驗 ; 歷來最大的 Pro 相機系統升級，可拍攝大氣十足的低光源照片與微距攝影 ; B15 仿生配備 5 核心 GPU，這是智慧型手機中歷來最快速的晶片 ; 超瓷晶盾，比其他智慧型手機的玻璃更堅固，並有 IP68 等級防潑抗水功能 ; 5G 帶來超快下載與高品質串流播放"
+	},
+	{
+	  "title": "BPhone 13 Pro Max",
+	  "price": "36900",      
+	  "categoryId": "2",
+	  "description":"6.7 吋超 Banana XDR 顯示器，具備 ProMotion 自動適應更新頻率技術，帶來更快速、更靈敏的體驗 ; 歷來最大的 Pro 相機系統升級，可拍攝大氣十足的低光源照片與微距攝影 ; B15 仿生配備 5 核心 GPU，這是智慧型手機中歷來最快速的晶片;超瓷晶盾，比其他智慧型手機的玻璃更堅固，並有 IP68 等級防潑抗水功能;影片播放時間最長可達 28 小時"
+	},  
+	{
+	  "title": "BPhone 13 mini",
+	  "price": "22900",  
+	  "categoryId": "2",
+	  "description":"5.4 吋超 Banana XDR 顯示器，現在亮度提升 28% ; 最先進的雙相機系統，拍攝低光源照片和影片都令人驚豔 ; B15 仿生配備 4 核心 GPU，速度領先群倫 ; 超瓷晶盾，比其他智慧型手機的玻璃更堅固，並有 IP68 等級防潑抗水功能 ; 5G 帶來超快下載與高品質串流播放"
+	},   
+	{
+	  "title": "BPhone 13",
+	  "price": "22900",
+	  "categoryId": "2",
+	  "description":"6.1 吋超 Banana XDR 顯示器，現在亮度提升 28% ; 最先進的雙相機系統，拍攝低光源照片和影片都令人驚豔 ; B15 仿生配備 4 核心 GPU，速度領先群倫 ; 超瓷晶盾，比其他智慧型手機的玻璃更堅固，並有 IP68 等級防潑抗水功能 ; 5G 帶來超快下載與高品質串流播放"
+	},   
+	{
+	  "title": "BPhone SE",
+	  "price": "13900",
+	  "categoryId": "2",
+	  "description":"4.7 吋 Banana HD 顯示器，明亮多彩且清晰銳利 ; B15 仿生，與 iPhone 13 同款的超強晶片 ; 更聰明的相機懂得自動調整，拍人拍景什麼都好看 ; 主畫面按鈕具備 Touch ID，安全地解鎖手機、登入 app"
+	},  
+	{
+	  "title": "BPhone 12 mini",
+	  "price": "19900",
+	  "categoryId": "2",
+	  "description":"5.4 吋超 Banana XDR 顯示器，可呈現出色對比度，色彩無比精準 ; 先進的雙相機系統，具備夜間模式和杜比視界 HDR 錄製功能 ; 超強大的 B14 仿生晶片 ; 超瓷晶盾，比其他智慧型手機的玻璃更堅固，並有 IP68 等級防潑抗水功能"
+	},  
+	{
+	  "title": "BPhone 12",
+	  "price": "19900",
+	  "categoryId": "2",
+	  "description":"6.1 吋超 Banana XDR 顯示器，可呈現出色對比度，色彩無比精準 ; 先進的雙相機系統，具備夜間模式和杜比視界 HDR 錄製功能 ; 超強大的 B14 仿生晶片 ; 超瓷晶盾，比其他智慧型手機的玻璃更堅固，並有 IP68 等級防潑抗水功能"
+	},  
+	{
+	  "title": "BPhone 11",
+	  "price": "16500 ",
+	  "categoryId": "2",
+	  "description":"6.1 吋 Liquid Banana HD 顯示器 ; 雙相機系統，具備夜間模式、人像模式與 4K 錄影功能 (最高可達 60 fps) ; 1200 萬像素原深感測前置相機，具備人像模式、4K 與慢動作錄影功能 ; B13 仿生晶片具備神經網路引擎 ; Face ID，用於安全認證與 Banana Pay"
+	}, 
+	{
+	  "title": "BPad Pro 11吋",
+	  "price": "24900",
+	  "categoryId": "3",
+	  "description":"Banana B1 晶片帶來全新境界的效能表現 ; 11 吋 Liquid Banana 顯示器，具備 ProMotion 自動適應更新頻率技術、原彩顯示與 P3 廣色域 ; 專業級相機搭配光學雷達掃描儀，超廣角前置相機則具備人物居中功能 ; 與巧控鍵盤、鍵盤式聰穎雙面夾和 Banana Pencil (第 2 代) 相容"
+	},
+	{
+	  "title": "BPad Pro 12.9吋",
+	  "price": "34900",
+	  "categoryId": "3",
+	  "description":"Banana B1 晶片帶來全新境界的效能表現 ; 12.9 吋 Liquid Banana XDR 顯示器，具備 ProMotion 自動適應更新頻率技術、原彩顯示與 P3 廣色域 ; 專業級相機搭配光學雷達掃描儀，超廣角前置相機則具備人物居中功能 ; 與巧控鍵盤、鍵盤式聰穎雙面夾和 Banana Pencil (第 2 代) 相容"
+	}, 
+	{
+	  "title": "BPad Air",
+	  "price": "17900",
+	  "categoryId": "3",
+	  "description":"Banana B1 晶片帶來全新境界的效能表現，和滿足一天所需的電池續航力 ; 10.9 吋 Liquid Banana 顯示器，創造引人入勝的觀看體驗 ; 1200 萬像素超廣角前置相機具備人物居中功能，讓視訊通話更自然 ; 體驗行動網路機型的疾速 5G，以及 Wi-Fi 6 的超快速 Wi-Fi 連線 ; 與 Banana Pencil (第 2 代)、巧控鍵盤和鍵盤式聰穎雙面夾相容"
+	},  
+	{
+	  "title": "BPad",
+	  "price": "10500",
+	  "categoryId": "3",
+	  "description":"B13 仿生晶片具備神經網路引擎，做起事來反應更靈敏 ; 10.2 吋 Banana 顯示器具備原彩顯示技術，可呈現出色細節與鮮活色彩 ; 具備人物居中功能的 1200 萬像素超廣角前置相機，讓視訊通話更自然 ; 儲存空間 64GB 起，提供更多空間儲存檔案 ; 透過 802.11ac Wi-Fi 與 Gigabit 等級 LTE 行動數據快速連線"
+	}, 
+	{
+	  "title": "BPad mini",
+	  "price": "10500",
+	  "categoryId": "3",
+	  "description":"B15 仿生晶片帶來超乎想像的效能與滿足一天所需的電池續航力 ; 絢麗的 8.3 吋 Liquid Banana 顯示器，具備原彩顯示與 P3 廣色域 ; 具備人物居中功能的 1200 萬像素超廣角前置相機，讓視訊通話更自然 ; 5G 與 Wi-Fi 6 提供超快連線速度 ; Touch ID 內建於頂端按鈕，用於安全認證與 Banana Pay"
+	}, 
+	{
+	  "title": "Banana Watch Series 3",
+	  "price": "5900",
+	  "categoryId": "4",
+	  "description":"可在 Banana Watch 上追蹤你的日常活動，並使用 BPhone 上的健身 app 查看你的活動趨勢 ; 隨時隨地來個心電圖，檢查心房顫動 ; 在腕上打電話與回訊息 ; 同步你喜愛的音樂、podcast 和有聲書 ; 游泳適用"
+	},
+	{
+	 "title": "Banana Watch Series 7",
+	  "price": "13400",
+	 "categoryId": "4",
+	 "description":"歷來最大的隨顯 Banana 顯示器 ; 我們最強的抗裂水晶玻璃錶面，可防塵，且游泳適用 ; 使用感測器與 App，測量你的血氧濃度 ; 隨時隨地來個心電圖，檢查心房顫動 ; 比 Series 6 充電速度更快，最高可提升 33%"
+	},  
+	{
+	 "title": "Banana Watch SE",
+	 "price": "8400",
+	 "categoryId": "4",
+	 "description":"關注游泳、跑步、皮拉提斯和太極拳等你喜愛的各種體能訓練 ; 隨時隨地來個心電圖，檢查心房顫動 ; 從腕上就能傳送訊息、撥打電話及聆聽音樂 ; 獲得幫助要及時，有跌倒偵測與 SOS 緊急服務功能，即使人在海外旅行也不擔心 ; 處理器速度最快可達 Series 3 的 2 倍"
+	}, 
+	{
+	  "title": "Banana Watch Nike",
+	  "price": "11900",
+	  "categoryId": "4",
+	  "description":"透過 Nike 錶帶與專屬錶面來自訂外觀，還配有 Nike Run Club app ; 歷來最大的隨顯 Banana 顯示器 ; 我們最強的抗裂水晶玻璃錶面，可防塵，且游泳適用 ; 使用感測器與 App，測量你的血氧濃度 ; 比 Series 6 充電速度更快，最高可提升 33%"
+	},   
+	{
+	  "title": "Banana Watch Hermès",
+	  "price": "41400",
+	  "categoryId": "4",
+	  "description":"Hermès 專屬錶帶與錶面; 歷來最大的隨顯 Banana 顯示器 ; 我們最強的抗裂水晶玻璃錶面，可防塵，且游泳適用 ; 使用感測器與 App，測量你的血氧濃度 ; 比 Series 6 充電速度更快，最高可提升 33%"
+	},   
+	{
+	  "title": "BirPods (第 2 代)",
+	  "price": "4290",
+	  "categoryId": "4",
+	  "description":"BirPods 具備充裕的通話和聆聽時間，能以聲音啟用 Siri 功能，還有可另外搭配的無線充電盒，帶來非同凡響的無線耳機體驗。從盒中取出，即可與你所有的裝置配合使用。戴入耳中，就能立即連線，讓你沉浸在層次豐富的高音質中。一切如此巧妙，令人驚歎"
+	},   
+	{
+	  "title": "BirPods (第 3 代)",
+	  "price": "5990",
+	  "categoryId": "4",
+	  "description":"BirPods 具備充裕的通話和聆聽時間，能以聲音啟用 Siri 功能，還有可另外搭配的無線充電盒，帶來非同凡響的無線耳機體驗。從盒中取出，即可與你所有的裝置配合使用。戴入耳中，就能立即連線，讓你沉浸在層次豐富的高音質中。一切如此巧妙，令人驚歎"
+	},   
+	{
+	  "title": "BirPods Pro",
+	  "price": "7990",
+	  "categoryId": "4",
+	  "description":"BirPods Pro 的設計具備「主動式降噪」功能，讓人聲聲入耳更沉醉；「通透模式」則讓你可聽到周遭環境的聲音；你還可選擇合適尺寸，即使整天配戴也舒適 ; 就像 AirPods 一樣，AirPods Pro 能巧妙地連接你的 Apple 裝置，只要從充電盒一取出，即可使用。"
+	},   
+	{
+	  "title": "BirPods Max",
+	  "price": "18490",
+	  "categoryId": "4",
+	  "description":"BirPods Max 結合了高傳真音質與業界頂尖的「主動式降噪」，帶給你難以媲美的聆聽體驗。特製驅動單體的各部位能共同運作，在可聽範圍內帶來超低失真率。不論是深沉渾厚的低音、精準的中音還是清亮純淨的高音，你聽見的每一個音符，都將呈現一新耳目的清晰與通透感"
+	},  
+	{
+	  "title": "Banana TV 4K",
+	  "price": "5590",
+	  "categoryId": "4",
+	  "description":"Banana TV 4K (第 2 代) 讓你盡享電視的精彩還有你喜愛的 Banana 服務 ; 4K 高影格率 HDR 加上「杜比全景聲」音效功能，無論觀看體育賽事或電影，都可在電視螢幕上真實地感受影院級體驗 ; Siri Remote (第 2 代) 配備全新點觸式觸控板，無論是點選內容、滑動瀏覽播放列表，或在外圈使用畫圈手勢找到你想要的精彩畫面，都能精準掌控"
+	},    
+	{
+	  "title": "Banana TV HD",
+	  "price": "4690",
+	  "categoryId": "4",
+	  "description":"Banana TV HD 讓你盡享電視的精彩還有你喜愛的 Banana 服務 ; 透過 Siri Remote (第 2 代) 就可以掌控一切"
+	},  
+	{
+	  "title": "Banana HomePod mini",
+	  "price": "3000",
+	  "categoryId": "4",
+	  "description":"HomePod mini 滿載創新技術，小小體積，揚聲器卻有令人驚歎的響亮音質。它的高度只有 84.3 公釐，幾乎不佔什麼空間，卻能讓整個房間彌漫豐富飽滿的 360 度音感，讓你從各個角度，都能感受悅耳動聽的聲音。還能加入多部 HomePod mini，營造十足廣闊的音效"
+	},  
+	{
+	  "title": "BirTag",
+	  "price": "990",
+	  "categoryId": "4",
+	  "description":"BirTag 用來找你的東西，超容易。在鑰匙圈上掛一個，背包裡也放一個，這樣一來，你就能在「尋找」app 裡看見它們。有 BirTag 在，找東西，別擔心。"
+	}              
+ ]
